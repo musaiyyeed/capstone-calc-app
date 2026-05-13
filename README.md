@@ -1,1 +1,1 @@
-# capstone-web-app
+# capstone-calc-app
